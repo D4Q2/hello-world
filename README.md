@@ -1,7 +1,4 @@
 # hello-world
-Hi guys,
+Dear World,
 
-Hello.
-
-Sincerely,
-Bye Guys
+Hello!
